@@ -1,0 +1,238 @@
+# ============================================================================
+# Base config (human run)
+# - Used by: python main.py
+# - Scope: human experiment only (no qa/sim section in this file)
+# ============================================================================
+
+# === Subject Form ===========================================================
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints:
+      min: 101
+      max: 999
+      digits: 3
+
+subinfo_mapping:
+  subject_id: Subject ID (3 digits)
+  Participant Information: Participant Information
+  registration_failed: Registration failed
+  registration_successful: Registration successful
+  invalid_input: "Invalid input for {field}"
+
+
+# === Display / Window =======================================================
+window:
+  size: [1280, 720]
+  units: pix
+  screen: 0
+  bg_color: black
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+
+
+# === Task ==================================================================
+task:
+  task_name: "Raven's Progressive Matrices"
+  save_path: ./outputs/human
+  total_blocks: 1
+  total_trials: 15
+  trial_per_block: 15
+  conditions:
+    - practice_01
+    - practice_02
+    - practice_03
+    - easy_01
+    - easy_02
+    - easy_03
+    - easy_04
+    - medium_01
+    - medium_02
+    - medium_03
+    - medium_04
+    - hard_01
+    - hard_02
+    - hard_03
+    - hard_04
+  condition_weights: null
+  key_list: [space, "1", "2", "3", "4"]
+  response_keys: ["1", "2", "3", "4"]
+  seed_mode: same_across_sub
+  overall_seed: 2026
+  delta: 0.0
+  language: English
+  voice_name: en-US-AriaNeural
+  voice_enabled: false
+  input_mode: keyboard
+  hide_cursor: true
+  force_quit_enabled: true
+  force_quit_shortcut: ctrl+q
+  enable_logging: true
+
+
+# === Timing =================================================================
+timing:
+  fixation_duration: 0.5
+  blank_duration: 0.1
+  response_open_duration: 25000
+  response_warning_duration: 5000
+  feedback_duration: 0.8
+  iti_duration: 0.6
+
+
+# === Stimuli ================================================================
+stimuli:
+  instruction_text:
+    type: text
+    text: |
+      Raven's Progressive Matrices
+
+      Each item shows a 3x3 matrix with one cell missing.
+      Choose the option that best completes the pattern.
+      You will complete 3 practice items first, then 12 scored items.
+
+      You will have up to 30 seconds per item.
+      A clock warning will appear in the last 5 seconds.
+
+      Press 1, 2, 3, or 4 to choose the answer card.
+      Press SPACE to begin.
+    font: Arial
+    color: white
+    height: 28
+    wrapWidth: 1040
+    pos: [0, 12]
+
+  fixation:
+    type: text
+    text: "+"
+    font: Arial
+    color: white
+    height: 44
+    pos: [0, 0]
+
+  blank_screen:
+    type: rect
+    width: 2000
+    height: 2000
+    pos: [0, 0]
+    fillColor: white
+    lineColor: white
+    lineWidth: 0
+
+  response_prompt:
+    type: text
+    text: "Choose the option that completes the matrix. Use 1, 2, 3, or 4."
+    font: Arial
+    color: white
+    height: 24
+    wrapWidth: 980
+    pos: [0, -345]
+
+  clock_warning:
+    type: text
+    text: |
+      Clock warning
+      5 seconds left
+    font: Arial
+    color: "#F2A23A"
+    height: 24
+    wrapWidth: 500
+    pos: [0, 300]
+
+  practice_feedback_correct:
+    type: text
+    text: |
+      Practice item
+      Correct
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 700
+    pos: [0, 0]
+
+  practice_feedback_incorrect:
+    type: text
+    text: |
+      Practice item
+      Incorrect
+      Correct answer: {correct_label}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  practice_feedback_timeout:
+    type: text
+    text: |
+      Practice item
+      Time out
+      Correct answer: {correct_label}
+    font: Arial
+    color: white
+    height: 30
+    wrapWidth: 760
+    pos: [0, 0]
+
+  block_break:
+    type: text
+    text: |
+      Block {block_num}/{total_blocks} complete
+      Accuracy: {block_accuracy:.1%}
+      Mean correct RT: {mean_rt_ms:.0f} ms
+      Timeouts: {timeout_count}
+
+      Press SPACE to continue.
+    font: Arial
+    color: white
+    height: 26
+    wrapWidth: 1000
+    pos: [0, 0]
+
+  good_bye:
+    type: text
+    text: |
+      Task complete
+      Trials: {total_trials}
+      Accuracy: {total_accuracy:.1%}
+      Mean correct RT: {mean_rt_ms:.0f} ms
+      Timeouts: {total_timeouts}
+
+      Press SPACE to exit.
+    font: Arial
+    color: white
+    height: 28
+    wrapWidth: 1000
+    pos: [0, 0]
+
+
+# === Triggers ===============================================================
+triggers:
+  map:
+    exp_onset: 1
+    exp_end: 2
+    block_onset: 10
+    block_end: 11
+    fixation_onset: 20
+    blank_onset: 21
+    matrix_response_open_onset: 30
+    matrix_response_warning_onset: 31
+    response_1: 41
+    response_2: 42
+    response_3: 43
+    response_4: 44
+    response_timeout: 45
+    practice_feedback_onset: 50
+    iti_onset: 60
+
+  driver:
+    type: serial_url
+    url: loop://
+    baudrate: 115200
+
+  timing:
+    post_delay_ms: 1
+
+  policy:
+    strict: false

@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "W2134066710",
+    "title": "An automated version of the operation span task",
+    "authors": [
+      "Nash Unsworth",
+      "Richard P. Heitz",
+      "Josef C. Schrock",
+      "Randall W. Engle"
+    ],
+    "year": 2005,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/bf03192720",
+    "citation_count": 1852,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2391304757",
+    "title": "Exploratory graph analysis: A new approach for estimating the number of dimensions in psychological research",
+    "authors": [
+      "Hudson Golino",
+      "Sacha Epskamp"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0174035",
+    "citation_count": 1000,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060107738",
+    "title": "Adult age differences in task switching.",
+    "authors": [
+      "Jutta Kray",
+      "Ulman Lindenberger"
+    ],
+    "year": 2000,
+    "journal": "Psychology and Aging",
+    "doi_or_url": "https://doi.org/10.1037//0882-7974.15.1.126",
+    "citation_count": 564,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2088055785",
+    "title": "Fractionating Human Intelligence",
+    "authors": [
+      "Adam Hampshire",
+      "Roger Highfield",
+      "Beth Parkin",
+      "Adrian M. Owen"
+    ],
+    "year": 2012,
+    "journal": "Neuron",
+    "doi_or_url": "https://doi.org/10.1016/j.neuron.2012.06.022",
+    "citation_count": 419,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158211182",
+    "title": "Analogical Reasoning and Prefrontal Cortex: Evidence for Separable Retrieval and Integration Mechanisms",
+    "authors": [
+      "S.A. Bunge"
+    ],
+    "year": 2004,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhh126",
+    "citation_count": 358,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1974187256",
+    "title": "Studying the consequences of literacy within a literate society: The cognitive correlates of print exposure",
+    "authors": [
+      "Keith E. Stanovich",
+      "Anne E. Cunningham"
+    ],
+    "year": 1992,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03208254",
+    "citation_count": 354,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2110233084",
+    "title": "Executive function and fluid intelligence after frontal lobe lesions",
+    "authors": [
+      "Mar\u00eda Roca",
+      "Alice Parr",
+      "Russell Thompson",
+      "Alexandra Woolgar",
+      "Teresa Torralva",
+      "Nagui M. Antoun",
+      "Facundo Manes",
+      "John S. Duncan"
+    ],
+    "year": 2009,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awp269",
+    "citation_count": 313,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2010442898",
+    "title": "Tone Language Speakers and Musicians Share Enhanced Perceptual and Cognitive Abilities for Musical Pitch: Evidence for Bidirectionality between the Domains of Language and Music",
+    "authors": [
+      "Gavin M. Bidelman",
+      "Stefanie Hutka",
+      "Sylvain Moreno"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0060676",
+    "citation_count": 300,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1972844076",
+    "title": "Neural Underpinnings of Gesture Discrimination in Patients with Limb Apraxia",
+    "authors": [
+      "Mariella Pazzaglia",
+      "Nicola Smania",
+      "Elisabetta Corato",
+      "Salvatore Maria Aglioti"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5748-07.2008",
+    "citation_count": 233,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118887217",
+    "title": "Connecting Long Distance: Semantic Distance in Analogical Reasoning Modulates Frontopolar Cortex Activity",
+    "authors": [
+      "Adam E. Green",
+      "David J. M. Kraemer",
+      "Jonathan A. Fugelsang",
+      "Jeremy R. Gray",
+      "Kevin Dunbar"
+    ],
+    "year": 2009,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhp081",
+    "citation_count": 223,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054335768",
+    "title": "Failure of Working Memory Training to Enhance Cognition or Intelligence",
+    "authors": [
+      "Todd W. Thompson",
+      "Michael Waskom",
+      "Keri-Lee A. Garel",
+      "Carlos Cardenas\u2010Iniguez",
+      "Gretchen Reynolds",
+      "Rebecca Winter",
+      "Patricia P. Chang",
+      "Kiersten Pollard",
+      "Nupur Lala",
+      "George A. Alvarez",
+      "John D. E. Gabrieli"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0063614",
+    "citation_count": 217,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159366217",
+    "title": "We talk, therefore we think? A cultural analysis of the effect of talking on thinking.",
+    "authors": [
+      "Heejung S. Kim"
+    ],
+    "year": 2002,
+    "journal": "Journal of Personality and Social Psychology",
+    "doi_or_url": "https://doi.org/10.1037//0022-3514.83.4.828",
+    "citation_count": 215,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142116105",
+    "title": "A cancellation test: its reliability in assessing attentional deficits in Alzheimer's disease",
+    "authors": [
+      "Sergio Della Sala",
+      "Marcella Laiacona",
+      "Hans Spinnler",
+      "Chiara Ubezio"
+    ],
+    "year": 1992,
+    "journal": "Psychological Medicine",
+    "doi_or_url": "https://doi.org/10.1017/s0033291700038460",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145997769",
+    "title": "Domain-Specific Knowledge as the \"Dark Matter\" of Adult Intelligence: Gf/Gc, Personality and Interest Correlates",
+    "authors": [
+      "Phillip L. Ackerman"
+    ],
+    "year": 2000,
+    "journal": "The Journals of Gerontology Series B",
+    "doi_or_url": "https://doi.org/10.1093/geronb/55.2.p69",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2114056587",
+    "title": "Brain Activity during a Visuospatial Working Memory Task Predicts Arithmetical Performance 2 Years Later",
+    "authors": [
+      "Iroise Dumontheil",
+      "Torkel Klingberg"
+    ],
+    "year": 2011,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhr175",
+    "citation_count": 204,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2057146321",
+    "title": "Extending Brain-Training to the Affective Domain: Increasing Cognitive and Affective Executive Control through Emotional Working Memory Training",
+    "authors": [
+      "Susanne Schweizer",
+      "Adam Hampshire",
+      "Tim Dalgleish"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0024372",
+    "citation_count": 195,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104390011",
+    "title": "Music practice is associated with development of working memory during childhood and adolescence",
+    "authors": [
+      "Sissela B. Nutley",
+      "Fahimeh Darki",
+      "Torkel Klingberg"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00926",
+    "citation_count": 184,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2803816323",
+    "title": "Diffusion markers of dendritic density and arborization in gray matter predict differences in intelligence",
+    "authors": [
+      "Erhan Gen\u00e7",
+      "Christoph Fraenz",
+      "Caroline Schl\u00fcter",
+      "Patrick Friedrich",
+      "R\u00fcdiger Hossiep",
+      "Manuel C. Voelkle",
+      "Josef M. Ling",
+      "Onur G\u00fcnt\u00fcrk\u00fcn",
+      "Rex E. Jung"
+    ],
+    "year": 2018,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-018-04268-8",
+    "citation_count": 175,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4248786174",
+    "title": "Estimating the Production Function for Human Capital: Results from a Randomized Controlled Trial in Colombia",
+    "authors": [
+      "Orazio Attanasio",
+      "Sarah Cattan",
+      "Emla Fitzsimons",
+      "Costas Meghir",
+      "Marta Rubio\u2010Codina"
+    ],
+    "year": 2019,
+    "journal": "American Economic Review",
+    "doi_or_url": "https://doi.org/10.1257/aer.20150183",
+    "citation_count": 170,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2107884508",
+    "title": "Cognitive Performance, Psychological Well-Being, and Brain Magnetic Resonance Imaging in Older Patients With Type 1 Diabetes",
+    "authors": [
+      "Augustina M.A. Brands",
+      "Roy P. C. Kessels",
+      "Roel P.L.M. Hoogma",
+      "J.M.L. Henselmans",
+      "Johanna W. van der Beek Boter",
+      "L. Jaap Kappelle",
+      "Edward H.F. de Haan",
+      "Geert Jan Biessels"
+    ],
+    "year": 2006,
+    "journal": "Diabetes",
+    "doi_or_url": "https://doi.org/10.2337/db05-1226",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030513261",
+    "title": "Thin slices of creativity: Using single-word utterances to assess creative cognition",
+    "authors": [
+      "Ranjani Prabhakaran",
+      "Adam E. Green",
+      "Jeremy R. Gray"
+    ],
+    "year": 2013,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-013-0401-7",
+    "citation_count": 161,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140319834",
+    "title": "Autistic children at risk of being underestimated: school-based pilot study of a strength-informed assessment",
+    "authors": [
+      "Val\u00e9rie Courchesne",
+      "Andr\u00e9e\u2010Anne S. Meilleur",
+      "Marie-Pier Poulin-Lord",
+      "Michelle Dawson",
+      "Isabelle Souli\u00e8res"
+    ],
+    "year": 2015,
+    "journal": "Molecular Autism",
+    "doi_or_url": "https://doi.org/10.1186/s13229-015-0006-3",
+    "citation_count": 159,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2500789887",
+    "title": "Manganese in Drinking Water and Cognitive Abilities and Behavior at 10 Years of Age: A Prospective Cohort Study",
+    "authors": [
+      "Syed Moshfiqur Rahman",
+      "Maria Kippler",
+      "Fahmida Tofail",
+      "Sven B\u00f6lte",
+      "Jena Hamadani",
+      "Marie Vahter"
+    ],
+    "year": 2016,
+    "journal": "Environmental Health Perspectives",
+    "doi_or_url": "https://doi.org/10.1289/ehp631",
+    "citation_count": 139,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2154372883",
+    "title": "Visual sustained attention and numerosity sensitivity correlate with math achievement in children",
+    "authors": [
+      "Giovanni Anobile",
+      "Paolo Stievano",
+      "David C. Burr"
+    ],
+    "year": 2013,
+    "journal": "Journal of Experimental Child Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.jecp.2013.06.006",
+    "citation_count": 139,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135934118",
+    "title": "Loglinear Multidimensional IRT Models for Polytomously Scored Items",
+    "authors": [
+      "Henk Kelderman",
+      "Carl Rijkes"
+    ],
+    "year": 1994,
+    "journal": "Psychometrika",
+    "doi_or_url": "https://doi.org/10.1007/bf02295181",
+    "citation_count": 124,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060680495",
+    "title": "Brain structures associated with executive functions during everyday events in a non-clinical sample",
+    "authors": [
+      "Hikaru Takeuchi",
+      "Yasuyuki Taki",
+      "Yuko Sassa",
+      "Hiroshi Hashizume",
+      "Atsushi Sekiguchi",
+      "Ai Fukushima",
+      "Ryuta Kawashima"
+    ],
+    "year": 2012,
+    "journal": "Brain Structure and Function",
+    "doi_or_url": "https://doi.org/10.1007/s00429-012-0444-z",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2792742285",
+    "title": "Differentiated instruction in primary mathematics: Effects of teacher professional development on student achievement",
+    "authors": [
+      "Emilie J. Prast",
+      "Eva van de Weijer\u2010Bergsma",
+      "Evelyn H. Kroesbergen",
+      "Johannes E. H. Van Luit"
+    ],
+    "year": 2018,
+    "journal": "Learning and Instruction",
+    "doi_or_url": "https://doi.org/10.1016/j.learninstruc.2018.01.009",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167749256",
+    "title": "Variation in Raven's Progressive Matrices scores across time and place",
+    "authors": [
+      "Symen A. Brouwers",
+      "Fons J. R. van de Vijver",
+      "D.A. van Hemert"
+    ],
+    "year": 2008,
+    "journal": "Learning and Individual Differences",
+    "doi_or_url": "https://doi.org/10.1016/j.lindif.2008.10.006",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2981704638",
+    "title": "The matrix reasoning item bank (MaRs-IB): novel, open-access abstract reasoning items for adolescents and adults",
+    "authors": [
+      "Gabriele Chierchia",
+      "Delia Fuhrmann",
+      "Lisa J. Knoll",
+      "Blanca Piera Pi\u2010Sunyer",
+      "Ashok Sakhardande",
+      "Sarah\u2010Jayne Blakemore"
+    ],
+    "year": 2019,
+    "journal": "Royal Society Open Science",
+    "doi_or_url": "https://doi.org/10.1098/rsos.190232",
+    "citation_count": 111,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060234646",
+    "title": "Constraints on theories of cognitive aging",
+    "authors": [
+      "Timothy A. Salthouse"
+    ],
+    "year": 1996,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03210753",
+    "citation_count": 108,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2510561631",
+    "title": "Hearing impairment, cognition and speech understanding: exploratory factor analyses of a comprehensive test battery for a group of hearing aid users, the n200 study",
+    "authors": [
+      "Jer\u00adker R\u00f6nnberg",
+      "Thomas Lunner",
+      "Elaine Hoi Ning Ng",
+      "Bj\u00f6rn Lidestam",
+      "Adriana A. Zekveld",
+      "Patrik S\u00f6rqvist",
+      "Bj\u00f6rn Lyxell",
+      "Ulf Tr\u00e4ff",
+      "Wycliffe Yumba",
+      "Elisabet Classon",
+      "Mathias H\u00e4llgren",
+      "Birgitta Larsby"
+    ],
+    "year": 2016,
+    "journal": "International Journal of Audiology",
+    "doi_or_url": "https://doi.org/10.1080/14992027.2016.1219775",
+    "citation_count": 107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166799423",
+    "title": "Fluid intelligence and brain functional organization in aging yoga and meditation practitioners",
+    "authors": [
+      "Tim Gard",
+      "Tim eGard",
+      "Tim eGard",
+      "Maxime eTaquet",
+      "Rohan eDixit",
+      "Britta Karen Hoelzel",
+      "Britta Karen Hoelzel",
+      "Yves-Alexandre ede Montjoye",
+      "Narayan eBrach",
+      "David eSalat",
+      "David eSalat",
+      "Bradford C Dickerson"
+    ],
+    "year": 2014,
+    "journal": "SHILAP Revista de lepidopterolog\u00eda",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2014.00076",
+    "citation_count": 103,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104460007",
+    "title": "CORRELATION BETWEEN INHIBITION, WORKING MEMORY AND DELIMITED FRONTAL AREA BLOOD FLOW MEASURED BY 99mTc-BICISATE SPECT IN ALCOHOL-DEPENDENT PATIENTS",
+    "authors": [
+      "Xavier No\u00ebl"
+    ],
+    "year": 2001,
+    "journal": "Alcohol and Alcoholism",
+    "doi_or_url": "https://doi.org/10.1093/alcalc/36.6.556",
+    "citation_count": 100,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2266839507",
+    "title": "Dynamics of the Human Structural Connectome Underlying Working Memory Training",
+    "authors": [
+      "Karen Caeyenberghs",
+      "Claudia Metzler\u2010Baddeley",
+      "Sonya Foley",
+      "Derek K. Jones"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1973-15.2016",
+    "citation_count": 100,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1970660523",
+    "title": "The Level and Nature of Autistic Intelligence II: What about Asperger Syndrome?",
+    "authors": [
+      "Isabelle Souli\u00e8res",
+      "Michelle Dawson",
+      "Morton Ann Gernsbacher",
+      "Laurent Mottron"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0025372",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2015104782",
+    "title": "Genetic Copy Number Variation and General Cognitive Ability",
+    "authors": [
+      "Andrew K. MacLeod",
+      "Gail Davies",
+      "Antony Payton",
+      "Albert Tenesa",
+      "Sarah E. Harris",
+      "David C. Liewald",
+      "Xiayi Ke",
+      "Michelle Luciano",
+      "Lorna M. Lopez",
+      "Alan J. Gow",
+      "Janie Corley",
+      "Paul Redmond"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0037385",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1983755350",
+    "title": "Neuropsychological, psychiatric, and cerebral perfusion correlates of leukoaraiosis in Alzheimer's disease",
+    "authors": [
+      "Sergio Starkstein",
+      "L. Sabe",
+      "Silvia V\u00e1zquez",
+      "Guillermo Lorenzo",
+      "A. J. Martinez",
+      "Gustavo Petracca",
+      "A Teson",
+      "Er\u00e1n Chemerinski",
+      "R. Leiguarda"
+    ],
+    "year": 1997,
+    "journal": "Journal of Neurology Neurosurgery & Psychiatry",
+    "doi_or_url": "https://doi.org/10.1136/jnnp.63.1.66",
+    "citation_count": 96,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128953023",
+    "title": "Frontopolar activity and connectivity support dynamic conscious augmentation of creative state",
+    "authors": [
+      "Adam E. Green",
+      "Michael S. Cohen",
+      "Hillary A. Raab",
+      "Christopher G. Yedibalian",
+      "Jeremy R. Gray"
+    ],
+    "year": 2014,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.22676",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2293460769",
+    "title": "Complementary and competing factor analytic approaches for the investigation of measurement invariance",
+    "authors": [
+      "Andrea Hildebrandt",
+      "Oliver Wilhelm",
+      "Alexander Robitzsch"
+    ],
+    "year": 2009,
+    "journal": "University of Zagreb University Computing Centre (SRCE)",
+    "doi_or_url": "https://openalex.org/W2293460769",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2611406568",
+    "title": "Complexity and compositionality in fluid intelligence",
+    "authors": [
+      "John Duncan",
+      "Daphn\u00e9 Chylinski",
+      "Daniel J. Mitchell",
+      "Apoorva Bhandari"
+    ],
+    "year": 2017,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1621147114",
+    "citation_count": 92,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2549539255",
+    "title": "Training on Working Memory and Inhibitory Control in Young Adults",
+    "authors": [
+      "Mar\u00eda J. Maraver",
+      "M. Teresa Bajo",
+      "Carlos J. G\u00f3mez\u2010Ariza"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2016.00588",
+    "citation_count": 92,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2067866543",
+    "title": "The structure of working memory and how it relates to intelligence in children",
+    "authors": [
+      "David Giofr\u00e8",
+      "Irene C. Mammarella",
+      "Cesare Cornoldi"
+    ],
+    "year": 2013,
+    "journal": "Intelligence",
+    "doi_or_url": "https://doi.org/10.1016/j.intell.2013.06.006",
+    "citation_count": 90,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2151438491",
+    "title": "Differential patterns of cortical activation as a function of fluid reasoning complexity",
+    "authors": [
+      "Bernardo Perfetti",
+      "Aristide Saggino",
+      "Antonio Ferretti",
+      "Massimo Caulo",
+      "Gian Luca Romani",
+      "Marco Onofrj"
+    ],
+    "year": 2007,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20519",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118153640",
+    "title": "Growth Trajectories and Intellectual Abilities in Young Adulthood: The Helsinki Birth Cohort Study",
+    "authors": [
+      "Katri R\u00e4ikk\u00f6nen",
+      "Tom Fors\u00e9n",
+      "Markus Henriksson",
+      "Eero Kajantie",
+      "Kati Heinonen",
+      "Anu\u2010Katriina Pesonen",
+      "Juho Leskinen",
+      "Inari Laaksonen",
+      "Clive Osmond",
+      "David J.P. Barker",
+      "Johan G. Eriksson"
+    ],
+    "year": 2009,
+    "journal": "American Journal of Epidemiology",
+    "doi_or_url": "https://doi.org/10.1093/aje/kwp132",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159372535",
+    "title": "Human cognitive ability is influenced by genetic variation in components of postsynaptic signalling complexes assembled by NMDA receptors and MAGUK proteins",
+    "authors": [
+      "W. David Hill",
+      "Gail Davies",
+      "Louie N. van de Lagemaat",
+      "A. Christoforou",
+      "Riccardo E. Marioni",
+      "Carla P. D. Fernandes",
+      "David C. Liewald",
+      "Mike D. R. Croning",
+      "Antony Payton",
+      "Leone Craig",
+      "Lawrence J. Whalley",
+      "M.A. Horan"
+    ],
+    "year": 2014,
+    "journal": "Translational Psychiatry",
+    "doi_or_url": "https://doi.org/10.1038/tp.2013.114",
+    "citation_count": 83,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2422363455",
+    "title": "The Hierarchical Structure of the Face Network Revealed by Its Functional Connectivity Pattern",
+    "authors": [
+      "Xu Wang",
+      "Zonglei Zhen",
+      "Yiying Song",
+      "Lijie Huang",
+      "Xiangzhen Kong",
+      "Jia Liu"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2789-15.2016",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1976115326",
+    "title": "Abstract Spatial Reasoning as an Autistic Strength",
+    "authors": [
+      "Jennifer L. Stevenson",
+      "Morton Ann Gernsbacher"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0059329",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987741662",
+    "title": "Cerebral Blood Flow during Rest Associates with General Intelligence and Creativity",
+    "authors": [
+      "Hikaru Takeuchi",
+      "Yasuyuki Taki",
+      "Hiroshi Hashizume",
+      "Yuko Sassa",
+      "Tomomi Nagase",
+      "Rui Nouchi",
+      "Ryuta Kawashima"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0025532",
+    "citation_count": 78,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977951309",
+    "title": "Exploring links between language and cognition in autism spectrum disorders: Complement sentences, false belief, and executive functioning",
+    "authors": [
+      "St\u00e9phanie Durrleman",
+      "Julie Franck"
+    ],
+    "year": 2015,
+    "journal": "Journal of Communication Disorders",
+    "doi_or_url": "https://doi.org/10.1016/j.jcomdis.2014.12.001",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2169318027",
+    "title": "Dietary micronutrients are associated with higher cognitive function gains among primary school children in rural Kenya",
+    "authors": [
+      "Constance Gewa",
+      "Robert E. Weiss",
+      "Nimrod O. Bwibo",
+      "Shannon E. Whaley",
+      "Marian Sigman",
+      "Suzanne P. Murphy",
+      "Gail Harrison",
+      "Charlotte G. Neumann"
+    ],
+    "year": 2008,
+    "journal": "British Journal Of Nutrition",
+    "doi_or_url": "https://doi.org/10.1017/s0007114508066804",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

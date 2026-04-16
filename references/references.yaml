@@ -1,0 +1,658 @@
+task_id: T000048-ravens-progressive-matrices
+generated_at: '2026-04-16T02:19:00Z'
+selection_policy: raven_progressive_matrices_open_access_high_citation
+citation_threshold: 100
+papers:
+- id: W2088055785
+  title: Fractionating Human Intelligence
+  authors:
+  - Adam Hampshire
+  - Roger Highfield
+  - Beth Parkin
+  - Adrian M. Owen
+  year: 2012
+  journal: Neuron
+  doi_or_url: https://doi.org/10.1016/j.neuron.2012.06.022
+  citation_count: 419
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2158211182
+  title: 'Analogical Reasoning and Prefrontal Cortex: Evidence for Separable Retrieval
+    and Integration Mechanisms'
+  authors:
+  - S.A. Bunge
+  year: 2004
+  journal: Cerebral Cortex
+  doi_or_url: https://doi.org/10.1093/cercor/bhh126
+  citation_count: 358
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2110233084
+  title: Executive function and fluid intelligence after frontal lobe lesions
+  authors:
+  - María Roca
+  - Alice Parr
+  - Russell Thompson
+  - Alexandra Woolgar
+  - Teresa Torralva
+  - Nagui M. Antoun
+  - Facundo Manes
+  - John S. Duncan
+  year: 2009
+  journal: Brain
+  doi_or_url: https://doi.org/10.1093/brain/awp269
+  citation_count: 313
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2118887217
+  title: 'Connecting Long Distance: Semantic Distance in Analogical Reasoning Modulates
+    Frontopolar Cortex Activity'
+  authors:
+  - Adam E. Green
+  - David J. M. Kraemer
+  - Jonathan A. Fugelsang
+  - Jeremy R. Gray
+  - Kevin Dunbar
+  year: 2009
+  journal: Cerebral Cortex
+  doi_or_url: https://doi.org/10.1093/cercor/bhp081
+  citation_count: 223
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2114056587
+  title: Brain Activity during a Visuospatial Working Memory Task Predicts Arithmetical
+    Performance 2 Years Later
+  authors:
+  - Iroise Dumontheil
+  - Torkel Klingberg
+  year: 2011
+  journal: Cerebral Cortex
+  doi_or_url: https://doi.org/10.1093/cercor/bhr175
+  citation_count: 204
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2134066710
+  title: An automated version of the operation span task
+  authors:
+  - Nash Unsworth
+  - Richard P. Heitz
+  - Josef C. Schrock
+  - Randall W. Engle
+  year: 2005
+  journal: Behavior Research Methods
+  doi_or_url: https://doi.org/10.3758/bf03192720
+  citation_count: 1852
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2391304757
+  title: 'Exploratory graph analysis: A new approach for estimating the number of
+    dimensions in psychological research'
+  authors:
+  - Hudson Golino
+  - Sacha Epskamp
+  year: 2017
+  journal: PLoS ONE
+  doi_or_url: https://doi.org/10.1371/journal.pone.0174035
+  citation_count: 1000
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2060107738
+  title: Adult age differences in task switching.
+  authors:
+  - Jutta Kray
+  - Ulman Lindenberger
+  year: 2000
+  journal: Psychology and Aging
+  doi_or_url: https://doi.org/10.1037//0882-7974.15.1.126
+  citation_count: 564
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W1974187256
+  title: 'Studying the consequences of literacy within a literate society: The cognitive
+    correlates of print exposure'
+  authors:
+  - Keith E. Stanovich
+  - Anne E. Cunningham
+  year: 1992
+  journal: Memory & Cognition
+  doi_or_url: https://doi.org/10.3758/bf03208254
+  citation_count: 354
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2010442898
+  title: 'Tone Language Speakers and Musicians Share Enhanced Perceptual and Cognitive
+    Abilities for Musical Pitch: Evidence for Bidirectionality between the Domains
+    of Language and Music'
+  authors:
+  - Gavin M. Bidelman
+  - Stefanie Hutka
+  - Sylvain Moreno
+  year: 2013
+  journal: PLoS ONE
+  doi_or_url: https://doi.org/10.1371/journal.pone.0060676
+  citation_count: 300
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W1972844076
+  title: Neural Underpinnings of Gesture Discrimination in Patients with Limb Apraxia
+  authors:
+  - Mariella Pazzaglia
+  - Nicola Smania
+  - Elisabetta Corato
+  - Salvatore Maria Aglioti
+  year: 2008
+  journal: Journal of Neuroscience
+  doi_or_url: https://doi.org/10.1523/jneurosci.5748-07.2008
+  citation_count: 233
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2054335768
+  title: Failure of Working Memory Training to Enhance Cognition or Intelligence
+  authors:
+  - Todd W. Thompson
+  - Michael Waskom
+  - Keri-Lee A. Garel
+  - Carlos Cardenas‐Iniguez
+  - Gretchen Reynolds
+  - Rebecca Winter
+  - Patricia P. Chang
+  - Kiersten Pollard
+  - Nupur Lala
+  - George A. Alvarez
+  - John D. E. Gabrieli
+  year: 2013
+  journal: PLoS ONE
+  doi_or_url: https://doi.org/10.1371/journal.pone.0063614
+  citation_count: 217
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2159366217
+  title: We talk, therefore we think? A cultural analysis of the effect of talking
+    on thinking.
+  authors:
+  - Heejung S. Kim
+  year: 2002
+  journal: Journal of Personality and Social Psychology
+  doi_or_url: https://doi.org/10.1037//0022-3514.83.4.828
+  citation_count: 215
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2142116105
+  title: 'A cancellation test: its reliability in assessing attentional deficits in
+    Alzheimer''s disease'
+  authors:
+  - Sergio Della Sala
+  - Marcella Laiacona
+  - Hans Spinnler
+  - Chiara Ubezio
+  year: 1992
+  journal: Psychological Medicine
+  doi_or_url: https://doi.org/10.1017/s0033291700038460
+  citation_count: 205
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2145997769
+  title: 'Domain-Specific Knowledge as the "Dark Matter" of Adult Intelligence: Gf/Gc,
+    Personality and Interest Correlates'
+  authors:
+  - Phillip L. Ackerman
+  year: 2000
+  journal: The Journals of Gerontology Series B
+  doi_or_url: https://doi.org/10.1093/geronb/55.2.p69
+  citation_count: 205
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2057146321
+  title: 'Extending Brain-Training to the Affective Domain: Increasing Cognitive and
+    Affective Executive Control through Emotional Working Memory Training'
+  authors:
+  - Susanne Schweizer
+  - Adam Hampshire
+  - Tim Dalgleish
+  year: 2011
+  journal: PLoS ONE
+  doi_or_url: https://doi.org/10.1371/journal.pone.0024372
+  citation_count: 195
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2104390011
+  title: Music practice is associated with development of working memory during childhood
+    and adolescence
+  authors:
+  - Sissela B. Nutley
+  - Fahimeh Darki
+  - Torkel Klingberg
+  year: 2014
+  journal: Frontiers in Human Neuroscience
+  doi_or_url: https://doi.org/10.3389/fnhum.2013.00926
+  citation_count: 184
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2803816323
+  title: Diffusion markers of dendritic density and arborization in gray matter predict
+    differences in intelligence
+  authors:
+  - Erhan Genç
+  - Christoph Fraenz
+  - Caroline Schlüter
+  - Patrick Friedrich
+  - Rüdiger Hossiep
+  - Manuel C. Voelkle
+  - Josef M. Ling
+  - Onur Güntürkün
+  - Rex E. Jung
+  year: 2018
+  journal: Nature Communications
+  doi_or_url: https://doi.org/10.1038/s41467-018-04268-8
+  citation_count: 175
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W4248786174
+  title: 'Estimating the Production Function for Human Capital: Results from a Randomized
+    Controlled Trial in Colombia'
+  authors:
+  - Orazio Attanasio
+  - Sarah Cattan
+  - Emla Fitzsimons
+  - Costas Meghir
+  - Marta Rubio‐Codina
+  year: 2019
+  journal: American Economic Review
+  doi_or_url: https://doi.org/10.1257/aer.20150183
+  citation_count: 170
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2107884508
+  title: Cognitive Performance, Psychological Well-Being, and Brain Magnetic Resonance
+    Imaging in Older Patients With Type 1 Diabetes
+  authors:
+  - Augustina M.A. Brands
+  - Roy P. C. Kessels
+  - Roel P.L.M. Hoogma
+  - J.M.L. Henselmans
+  - Johanna W. van der Beek Boter
+  - L. Jaap Kappelle
+  - Edward H.F. de Haan
+  - Geert Jan Biessels
+  year: 2006
+  journal: Diabetes
+  doi_or_url: https://doi.org/10.2337/db05-1226
+  citation_count: 166
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2030513261
+  title: 'Thin slices of creativity: Using single-word utterances to assess creative
+    cognition'
+  authors:
+  - Ranjani Prabhakaran
+  - Adam E. Green
+  - Jeremy R. Gray
+  year: 2013
+  journal: Behavior Research Methods
+  doi_or_url: https://doi.org/10.3758/s13428-013-0401-7
+  citation_count: 161
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2140319834
+  title: 'Autistic children at risk of being underestimated: school-based pilot study
+    of a strength-informed assessment'
+  authors:
+  - Valérie Courchesne
+  - Andrée‐Anne S. Meilleur
+  - Marie-Pier Poulin-Lord
+  - Michelle Dawson
+  - Isabelle Soulières
+  year: 2015
+  journal: Molecular Autism
+  doi_or_url: https://doi.org/10.1186/s13229-015-0006-3
+  citation_count: 159
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2500789887
+  title: 'Manganese in Drinking Water and Cognitive Abilities and Behavior at 10 Years
+    of Age: A Prospective Cohort Study'
+  authors:
+  - Syed Moshfiqur Rahman
+  - Maria Kippler
+  - Fahmida Tofail
+  - Sven Bölte
+  - Jena Hamadani
+  - Marie Vahter
+  year: 2016
+  journal: Environmental Health Perspectives
+  doi_or_url: https://doi.org/10.1289/ehp631
+  citation_count: 139
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2154372883
+  title: Visual sustained attention and numerosity sensitivity correlate with math
+    achievement in children
+  authors:
+  - Giovanni Anobile
+  - Paolo Stievano
+  - David C. Burr
+  year: 2013
+  journal: Journal of Experimental Child Psychology
+  doi_or_url: https://doi.org/10.1016/j.jecp.2013.06.006
+  citation_count: 139
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2135934118
+  title: Loglinear Multidimensional IRT Models for Polytomously Scored Items
+  authors:
+  - Henk Kelderman
+  - Carl Rijkes
+  year: 1994
+  journal: Psychometrika
+  doi_or_url: https://doi.org/10.1007/bf02295181
+  citation_count: 124
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2060680495
+  title: Brain structures associated with executive functions during everyday events
+    in a non-clinical sample
+  authors:
+  - Hikaru Takeuchi
+  - Yasuyuki Taki
+  - Yuko Sassa
+  - Hiroshi Hashizume
+  - Atsushi Sekiguchi
+  - Ai Fukushima
+  - Ryuta Kawashima
+  year: 2012
+  journal: Brain Structure and Function
+  doi_or_url: https://doi.org/10.1007/s00429-012-0444-z
+  citation_count: 121
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2792742285
+  title: 'Differentiated instruction in primary mathematics: Effects of teacher professional
+    development on student achievement'
+  authors:
+  - Emilie J. Prast
+  - Eva van de Weijer‐Bergsma
+  - Evelyn H. Kroesbergen
+  - Johannes E. H. Van Luit
+  year: 2018
+  journal: Learning and Instruction
+  doi_or_url: https://doi.org/10.1016/j.learninstruc.2018.01.009
+  citation_count: 121
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2167749256
+  title: Variation in Raven's Progressive Matrices scores across time and place
+  authors:
+  - Symen A. Brouwers
+  - Fons J. R. van de Vijver
+  - D.A. van Hemert
+  year: 2008
+  journal: Learning and Individual Differences
+  doi_or_url: https://doi.org/10.1016/j.lindif.2008.10.006
+  citation_count: 113
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2981704638
+  title: 'The matrix reasoning item bank (MaRs-IB): novel, open-access abstract reasoning
+    items for adolescents and adults'
+  authors:
+  - Gabriele Chierchia
+  - Delia Fuhrmann
+  - Lisa J. Knoll
+  - Blanca Piera Pi‐Sunyer
+  - Ashok Sakhardande
+  - Sarah‐Jayne Blakemore
+  year: 2019
+  journal: Royal Society Open Science
+  doi_or_url: https://doi.org/10.1098/rsos.190232
+  citation_count: 111
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2060234646
+  title: Constraints on theories of cognitive aging
+  authors:
+  - Timothy A. Salthouse
+  year: 1996
+  journal: Psychonomic Bulletin & Review
+  doi_or_url: https://doi.org/10.3758/bf03210753
+  citation_count: 108
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2510561631
+  title: 'Hearing impairment, cognition and speech understanding: exploratory factor
+    analyses of a comprehensive test battery for a group of hearing aid users, the
+    n200 study'
+  authors:
+  - Jer­ker Rönnberg
+  - Thomas Lunner
+  - Elaine Hoi Ning Ng
+  - Björn Lidestam
+  - Adriana A. Zekveld
+  - Patrik Sörqvist
+  - Björn Lyxell
+  - Ulf Träff
+  - Wycliffe Yumba
+  - Elisabet Classon
+  - Mathias Hällgren
+  - Birgitta Larsby
+  year: 2016
+  journal: International Journal of Audiology
+  doi_or_url: https://doi.org/10.1080/14992027.2016.1219775
+  citation_count: 107
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2166799423
+  title: Fluid intelligence and brain functional organization in aging yoga and meditation
+    practitioners
+  authors:
+  - Tim Gard
+  - Tim eGard
+  - Tim eGard
+  - Maxime eTaquet
+  - Rohan eDixit
+  - Britta Karen Hoelzel
+  - Britta Karen Hoelzel
+  - Yves-Alexandre ede Montjoye
+  - Narayan eBrach
+  - David eSalat
+  - David eSalat
+  - Bradford C Dickerson
+  year: 2014
+  journal: SHILAP Revista de lepidopterología
+  doi_or_url: https://doi.org/10.3389/fnagi.2014.00076
+  citation_count: 103
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2104460007
+  title: CORRELATION BETWEEN INHIBITION, WORKING MEMORY AND DELIMITED FRONTAL AREA
+    BLOOD FLOW MEASURED BY 99mTc-BICISATE SPECT IN ALCOHOL-DEPENDENT PATIENTS
+  authors:
+  - Xavier Noël
+  year: 2001
+  journal: Alcohol and Alcoholism
+  doi_or_url: https://doi.org/10.1093/alcalc/36.6.556
+  citation_count: 100
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
+- id: W2266839507
+  title: Dynamics of the Human Structural Connectome Underlying Working Memory Training
+  authors:
+  - Karen Caeyenberghs
+  - Claudia Metzler‐Baddeley
+  - Sonya Foley
+  - Derek K. Jones
+  year: 2016
+  journal: Journal of Neuroscience
+  doi_or_url: https://doi.org/10.1523/jneurosci.1973-15.2016
+  citation_count: 100
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  parameter_bindings: {}
+  notes: ''
