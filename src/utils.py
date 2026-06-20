@@ -192,6 +192,14 @@ DEFAULT_TRIAL_BANK: dict[str, dict[str, Any]] = {
 }
 
 
+def parse_condition(condition: Any) -> str:
+    if isinstance(condition, dict):
+        return str(condition.get("condition", condition.get("condition_label", "practice_01")))
+    if isinstance(condition, tuple) and condition:
+        return str(condition[0])
+    return str(condition)
+
+
 def _coerce_position(value: Any, fallback: tuple[float, float]) -> tuple[float, float]:
     if isinstance(value, (list, tuple)) and len(value) >= 2:
         try:
